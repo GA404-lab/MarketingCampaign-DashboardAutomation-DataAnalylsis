@@ -1,4 +1,4 @@
-# Marketing Campaign Performance Analysis - Excel & Looker Studio
+# Marketing Performance Analysis - Excel & Looker Studio
 <p align="center">
 <img width="1874" height="666" alt="Navigation-ezgif com-optimize" src="https://github.com/user-attachments/assets/8d916427-6640-4bff-b5a2-74a607d5df5d" />
 <img width="1366" height="768" alt="lookerdashboard" src="https://github.com/user-attachments/assets/cbe14680-9291-4353-9c06-a736c2387dbc" />
