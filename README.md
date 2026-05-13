@@ -33,7 +33,7 @@ An analysis of a 2-year marketing campaign dataset covering 2,241 customer recor
   - [Do acceptors spend more than rejectors?](#do-acceptors-spend-more-than-rejectors)
 - [Insights](#insights)
 - [Recommendations](#recommendations)
-- [Dashboard Automation and Navigation](#dashboard-automation-and-navigation)
+- [Dashboard and Navigation](#dashboard-automation-and-navigation)
 
 ---
 
