@@ -11,12 +11,29 @@
 <br>
 An analysis of a 2-year marketing campaign dataset covering 2,241 customer records across six campaigns. I cleaned and structured the raw data in Excel, performed statistical analysis using chi-square goodness of fit tests, correlation, and regression, built an interactive Excel dashboard with VBA automation and a custom navigation system, and a companion Looker Studio dashboard.
 
+
+
 ## Setup
 
 **Tools:** Microsoft Excel, Google Looker Studio <br>
 **Dataset:** [Maven Analytics Marketing Campaign Results](https://mavenanalytics.io/data-playground/marketing-campaign-results)<br>
 **Live Dashboard (Looker Studio):** [View Interactive Dashboard](https://datastudio.google.com/reporting/b225fb33-b549-43b6-aad8-4e64eead2ede)<br>
 **Excel File:** [marketing_data.xlsm](https://github.com/user-attachments/files/27718713/marketing_data.xlsm)
+
+---
+## Table of Contents
+
+- [Setup](#setup)
+- [Data Cleaning](#data-cleaning)
+- [Analysis](#analysis)
+  - [Which customer segments accept the most campaign offers?](#which-customer-segments-accept-the-most-campaign-offers)
+  - [What do campaign acceptors spend their money on?](#what-do-campaign-acceptors-spend-their-money-on)
+  - [Is it worth sending more offers after the initial campaign was rejected?](#is-it-worth-sending-more-offers-after-the-initial-campaign-was-rejected)
+  - [Do acceptors and rejectors prefer different purchase channels?](#do-acceptors-and-rejectors-prefer-different-purchase-channels)
+  - [Do acceptors spend more than rejectors?](#do-acceptors-spend-more-than-rejectors)
+- [Insights](#insights)
+- [Recommendations](#recommendations)
+- [Dashboard Automation and Navigation](#dashboard-automation-and-navigation)
 
 ---
 
