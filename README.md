@@ -27,13 +27,13 @@ An analysis of a 2-year marketing campaign dataset covering 2,241 customer recor
 - [Recommendations](#recommendations)
 - [Dashboard and Navigation](#dashboard-and-navigation)
 
-[View full documented process](PROCESS.md)
+[View full documented process](process.md)
 
 ---
 
 # Analysis Overview
 
-I structured my analysis around one main question: what separates customers who accept campaigns and those who don't. I split that one question into 5 and answered them using t-tests, FDR, linear regression, correlation, pivot tables, VBA, Goal Seek, and more. You can find the full documented process with formulas and screenshots [here](PROCESS.md).
+I structured my analysis around one main question: what separates customers who accept campaigns and those who don't. I split that one question into 5 and answered them using t-tests, FDR, linear regression, correlation, pivot tables, VBA, Goal Seek, and more. You can find the full documented process with formulas and screenshots [here](process.md).
 
 # Insights
 
